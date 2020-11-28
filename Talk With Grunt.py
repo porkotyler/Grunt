@@ -1,0 +1,6 @@
+print("This is Grunt: 👹")
+print("Enter your information to talk with Grunt.")
+name = input("Enter your name: ")
+print("👹: Blood and thunder " + name + "!")
+race = input("Enter your race: ")
+print("👹: Grunt hates " + race + "!")
