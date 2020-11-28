@@ -1,6 +1,8 @@
 ![](https://i.imgur.com/M3lIUkN.png)
 
-Grunt is a stupid orc chatbot that was created using Python. How stupid he stays however depends on the GitHub community so feel free to make him smarter. I will continue to make improvements on this project and I welcome others to contribute as much or as little as they want so fork away.
+## THIS IS A WORK IN PROGRESS!
+
+Grunt is a Python chatbot that was inspired by [orcs](https://classic.wowhead.com/npc=11682/horde-grunt) from the Warcraft games. Orcs aren’t exactly known for their silver tongue and Grunt is no different. This is a very basic chatbot that can only give simple replies to very specific questions but the goal of this project is to make Grunt more and more sophisticated as time progressess. This project could turn into a decision-based RPG game where the replies you give to Grunt can give you multiple endings but my main ambition is to make a good chatbot no matter its purpose so feel free to fork this project and use Grunt however you like. 
  
 
 ## Getting Started
