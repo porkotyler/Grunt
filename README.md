@@ -1,6 +1,5 @@
 ![](https://i.imgur.com/M3lIUkN.png)
 
-# Grunt
 Grunt is a stupid orc chatbot that was created using Python. How stupid he stays however depends on the GitHub community so feel free to make him smarter. I will continue to make improvements on this project and I welcome others to contribute as much or as little as they want so fork away.
  
 
