@@ -1,7 +1,7 @@
-![](https://i.imgur.com/D9mWkx1.png)
+![](https://i.imgur.com/5FTIEYQ.png)
 
 # Grunt
-Grunt is a stupid orc chatbot that was created using Python.
+Grunt is a stupid orc chatbot that was created using Python. How stupid he stays however depends on the GitHub community so feel free to make him smarter.
  
 
 ## Getting Started
@@ -9,7 +9,7 @@ Open the "Talk With Grunt" file using a text editor like [PyCharm](https://www.j
 
 ## Authors
 
-* **Pantelis Kassotis** - *Initial work* - [Portfolio](hhttps://panteliskassotis.com/)
+* **Pantelis Kassotis** - *Initial work* - [Portfolio](https://panteliskassotis.com/)
 
 ## License
 
